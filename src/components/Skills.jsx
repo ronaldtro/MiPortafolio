@@ -12,7 +12,7 @@ export default function Skills() {
             Skills
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            A continuacion presento una lista de lenguajes de programacion con los cuales he interactuado a lo largo de mi carrera profesional
+            {''}
           </p>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
